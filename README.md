@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi, I'm Ibrohim Abdullayev <img src="https://media.giphy.com/media/hvR3CLFzcarsR4ia7z/giphy.gif" width="27px">
 
-<!--
-**ibrohima807-32/ibrohima807-32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make videos on YouTube about software development. <br />
+I work remotely and like to travel a lot.
 
-Here are some ideas to get you started:
+<a href="https://www.youtube.com/username">
+  <img src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" width="30px">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+### Languages and tools I work with:
+
+<code><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-10.png" width="30px"></code>
+<code><img src="https://batflat.org/themes/default/img/css-5-logo.png" width="30px"></code>
+<code><img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" width="30px"></code>
+<code><img src="https://iconape.com/wp-content/png_logo_vector/bootstrap.png" width="30px"></code>
+<code><img src="https://miro.medium.com/max/512/1*YazuhyGm5GskH3ZEtZGO57.png" width="30px"></code>
+<code><img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="30px"></code>
+<code><img src="https://brandslogos.com/wp-content/uploads/images/large/the-movie-database-tmdb-logo-black-and-white.png" width="30px"></code>
+<code><img src="https://seeklogo.com/images/G/firebase-2-logo-03F4F9D2-seeklogo.com.png" width="30px"></code>
+<code><img src="https://cdn.iconscout.com/icon/free/png-256/graphql-3627039-3029432.png" width="30px"></code>
